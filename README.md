@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Profile Banner"/>
+  <img src="D:\assets" alt="Profile Banner"/>
 </p>
 <!-- 🎬 Intro Animation -->
 <p align="center">

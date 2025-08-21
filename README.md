@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <p align="center">
-  <img src="banner.jpg" alt="Profile Banner" width="500" style="border-radius:20px;" />
+  <img src="banner.jpg" alt="Profile Banner" width="500" />
 </p>
 <!-- 🎬 Intro Animation -->
 <p align="center">

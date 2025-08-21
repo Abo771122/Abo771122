@@ -1,18 +1,24 @@
 <!-- GitHub Profile README -->
+
+<!-- Banner -->
 <p align="center">
   <img src="banner3.png" alt="Profile Banner" width="500" />
 </p>
-<!-- 🎬 Intro Animation -->
+
+<!-- Visitors badge (center) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Abobakr+Hameed+Abdullah+Al-Shalali;💻+Programmer+and+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java;📚+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Intro Animation" />
+  <img src="https://komarev.com/ghpvc/?username=Abo771122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<!-- (Optional) Banner image -->
-<!-- 
+<!-- 🎬 Intro Animation (typing, purple color close to banner) -->
 <p align="center">
-  <img src="assets/banner.png" alt="Profile Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Abobakr+Hameed+Abdullah+Al-Shalali;💻+Programmer+and+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java;📚+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Intro Animation" />
 </p>
--->
+
+<!-- 🌈 Gradient Intro (static SVG with gradient colors like banner) -->
+<p align="center">
+  <img src="assets/intro-gradient.svg" alt="Gradient Intro" width="700"/>
+</p>
 
 <h1 align="center">Hi there 👋, I'm Abobakr Hameed Abdullah Al-Shalali</h1>
 
@@ -33,7 +39,7 @@
 - 🌍 From: Al-Radmah District, Ibb Governorate, Yemen  
 - 💡 Focus Areas: Mobile Apps • Web Apps • Databases  
 - ✨ Open To: Freelance • Collaboration • Learning new tech  
-- 📧 Email: [ant771122@gmail.com](mailto:ant771122@gmail.com)  
+- 📧 Email: ant771122@gmail.com  
 - 📱 Phone / WhatsApp: +967 780 268 714  
 
 ---
@@ -74,13 +80,13 @@ Tools & Platforms:
 
 ## 📌 Featured Projects
 - 📱 Store App (Flutter) — Authentication, REST API, State Management  
-  🔗 [Repo Link](https://github.com/Abo771122/REPO1)
+  🔗 Repo Link
 
 - 🏥 Clinic System (ASP.NET + SQL Server) — CRUD, Authentication, Reports  
-  🔗 [Repo Link](https://github.com/Abo771122/REPO2)
+  🔗 Repo Link
 
 - 🎓 Student Manager (Flutter + PostgreSQL) — Offline-first with Sync  
-  🔗 [Repo Link](https://github.com/Abo771122/REPO3)
+  🔗 Repo Link
 
 ---
 
@@ -94,7 +100,6 @@ Tools & Platforms:
 </p>
 
 ---
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:ant771122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>

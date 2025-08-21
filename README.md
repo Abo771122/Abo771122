@@ -12,7 +12,7 @@
 </p>
 -->
 
-<h1 align="center">Hi there 👋, I'm Abubakr Hamid Abdullah Al-Shalali</h1>
+<h1 align="center">Hi there 👋, I'm Abobakr Hameed Abdullah Al-Shalali</h1>
 
 <p align="center">
   <b>💻 Programmer | 🎓 BSc in Information Technology</b><br/>

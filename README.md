@@ -1,5 +1,7 @@
 <!-- GitHub Profile README -->
-
+<p align="center">
+  <img src="assets/banner.jpg" alt="Profile Banner"/>
+</p>
 <!-- 🎬 Intro Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Abobakr+Hameed+Abdullah+Al-Shalali;💻+Programmer+and+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java;📚+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Intro Animation" />

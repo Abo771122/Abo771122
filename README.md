@@ -15,10 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Abobakr+Hameed+Abdullah+Al-Shalali;💻+Programmer+and+Developer;🚀+Flutter+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java;📚+Lifelong+Learner+%7C+Tech+Enthusiast" alt="Intro Animation" />
 </p>
 
-<!-- 🌈 Gradient Intro (static SVG with gradient colors like banner) -->
-<p align="center">
-  <img src="intro-gradient.svg.txt" alt="Gradient Intro" width="700"/>
-</p>
 
 <h1 align="center">Hi there 👋, I'm Abobakr Hameed Abdullah Al-Shalali</h1>
 

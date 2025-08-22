@@ -1,0 +1,27 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- نفس ألوان البانر: أزرق → بنفسجي → سماوي -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E90FF"/>
+      <stop offset="50%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#00CFFF"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 42px system-ui, -apple-system, Segoe UI, Roboto, Arial; }
+      .subtitle { font: 500 26px system-ui, -apple-system, Segoe UI, Roboto, Arial; }
+    </style>
+  </defs>
+
+  <!-- خلفية شفافة بالكامل -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- الاسم بتدرج -->
+  <text x="50%" y="45%" text-anchor="middle" class="title" fill="url(#grad)">
+    Abobakr Hameed Abdullah Al-Shalali
+  </text>
+
+  <!-- سطر ثانٍ (اللقب) بتدرّج -->
+  <text x="50%" y="75%" text-anchor="middle" class="subtitle" fill="url(#grad)">
+    💻 Programmer | Developer | Lifelong Learner • 🚀 Flutter | Python | C++ | C# | React Native
+  </text>
+</svg>

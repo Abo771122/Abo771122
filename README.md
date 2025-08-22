@@ -17,7 +17,7 @@
 
 <!-- 🌈 Gradient Intro (static SVG with gradient colors like banner) -->
 <p align="center">
-  <img src="assets/intro-gradient.svg" alt="Gradient Intro" width="700"/>
+  <img src="intro-gradient.svg.txt" alt="Gradient Intro" width="700"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Abobakr Hameed Abdullah Al-Shalali</h1>
